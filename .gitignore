@@ -1,0 +1,11 @@
+/target
+.DS_Store
+Cargo.lock
+/valkyrie-error/target
+/valkyrie-client/target
+/valkyrie-server/target
+/valkyrie-markup/target
+/valkyrie-error/Cargo.lock
+/valkyrie-client/Cargo.lock
+/valkyrie-server/Cargo.lock
+/valkyrie-markup/Cargo.lock

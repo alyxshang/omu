@@ -1,0 +1,13 @@
+[package]
+name = "valkyrie-markup"
+version = "0.1.0"
+edition = "2021"
+license-file = "LICENSE"
+author = ["Alyx Shang"]
+description= "A library to parse Valkyrie Markup text."
+homepage = "https://github.com/alyxshang/valkyrie"
+repository = "https://github.com/alyxshang/valkyrie"
+readme = "README.markdown"
+
+[dependencies]
+valkyrie-error = { path = "../valkyrie-error", version = "0.1.0" }
