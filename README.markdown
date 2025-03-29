@@ -1,6 +1,6 @@
 # OWO MARKUP :ribbon: :gift_heart:
 
-***A cute markup language for gentle creatures. :ribbon: :gift_heart:**
+***A cute markup language for gentle creatures. :ribbon: :gift_heart:***
 
 ## ABOUT :books:
 
