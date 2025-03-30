@@ -3,7 +3,7 @@
   description = "An example OwO Markup document."
 }
 
-(OwOStart)
+[OwO]
 
 <3 Heading 1
 
@@ -35,4 +35,4 @@ pub fn main(){
 }
 ###
 
-(OwOEnd)
+[OwO]
