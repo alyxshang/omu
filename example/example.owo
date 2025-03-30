@@ -1,0 +1,38 @@
+{
+  name = "example",
+  description = "An example OwO Markup document."
+}
+
+(OwOStart)
+
+<3 Heading 1
+
+Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
+Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
+Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
+Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
+This is ((generic text)(https://de.wikipedia.org/wiki/Lorem_ipsum)).
+
+This is my profile picture on GitHub.
+>(https://avatars.githubusercontent.com/u/179976644?v=4)<
+
+This is an unordered list.
+~ Important Item Number One.
+~ Important Item Number Two.
+~ Important Item Number Three.
+~ Important Item Number Four.
+
+// This is a comment.
+
+^This is a blockquote^
+
+Below is a codeblock for saying "Hello" in Rust.
+
+###Rust
+pub fn main(){
+  let msg: String = "HellOwO!";
+  println!("{}", msg);
+}
+###
+
+(OwOEnd)
