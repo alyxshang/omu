@@ -3,6 +3,12 @@ OMU by Alyx Shang.
 Licensed under the FSL v1.
 */
 
+/// Declaring
+/// the testing
+/// module.
+#[cfg(test)]
+pub mod tests;
+
 /// Re-exporting the module
 /// responsible handling and
 /// catching errors.
