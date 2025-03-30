@@ -9,5 +9,11 @@ homepage = "https://github.com/alyxshang/valkyrie"
 repository = "https://github.com/alyxshang/valkyrie"
 readme = "README.markdown"
 
-[dependencies]
-valkyrie-error = { path = "../valkyrie-error", version = "0.1.0" }
+[[bin]]
+name = "omuc"
+
+[profile.release]
+lto = true
+strip = true
+opt-level = "z"
+codegen-units = 1
