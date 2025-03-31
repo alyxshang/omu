@@ -6,7 +6,7 @@
 
 This repository contains the source code for the ***OwO Markup***
 compiler and the ***OwO Markup*** specification. ***Omu*** is an
-abbreviation for ***OwO Markup***.
+abbreviation for ***OwO MarkUp***.
 
 ## STATUS :warning:
 
